@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Learning Node js and NPM",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnilborse42/Learn-Git.git"
+  },
+  "author": "swapnil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapnilborse42/Learn-Git/issues"
+  },
+  "homepage": "https://github.com/swapnilborse42/Learn-Git#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
